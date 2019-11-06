@@ -1,4 +1,4 @@
-# -mac-os-_catalina-csrutil-disable-issue
+# (mac os_catalina)-csrutil-disable-issue
 
 ## I am currently using macbook pro 2018.
 
