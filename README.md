@@ -15,7 +15,7 @@ To solve this problem, the following method was used.
 <u>If anyone has the same problem as me, I hope it will be solved.</u>
 
 
-## step_01 ) 다음과 같이 mac os 를 재시동 하십시오. 
+## step_01 ) Restart mac os as follows: 
 ## Restart mac os as follows:
 ## After the display screen exits, press Command + R continuously.
 ## This will put you in mac os rescue mode.
